@@ -1,3 +1,9 @@
+# CST8919-lab01-Auth0
+
+demo-video link: https://youtu.be/n7O9Bs1vduM
+
+
+
 ## 🔧 **1. Setup & Auth0 Configuration**
 
 ### ✅ Step 1: Create an Auth0 Account & Application
